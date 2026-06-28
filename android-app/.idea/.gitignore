@@ -1,0 +1,20 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/AndroidProjectSystem.xml
+/appInsightsSettings.xml
+/assetWizardSettings.xml
+/compiler.xml
+/copilot.data.migration.agent.xml
+/copilot.data.migration.ask.xml
+/copilot.data.migration.edit.xml
+/deploymentTargetSelector.xml
+/gradle.xml
+/migrations.xml
+/misc.xml
+/runConfigurations.xml
+/vcs.xml
+/copilot.data.migration.ask2agent.xml
+/inspectionProfiles
+/caches
+/dictionaries
